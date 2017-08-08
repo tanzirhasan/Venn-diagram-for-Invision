@@ -45,7 +45,7 @@ WHERE ENC.FYActivity = 'FY1516' ) ACT
 GROUP BY ACT.FYActivity, ACT.EDActivity, ACT.InpatientActivity, ACT.OutpatientActivity
 ```
 
-![](/Users/tanzir6/Documents/ui1.png)
+![](/ui1.png)
 
 
-![](/Users/tanzir6/Documents/ui2.png)
+![](ui2.png)
